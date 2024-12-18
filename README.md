@@ -35,6 +35,3 @@ To use the provided implementation, simply execute the Python script `convex_hul
 
 Contributions are welcome! Feel free to open a pull request with any improvements or additional features.
 
-## Credits
-
-This implementation was developed by the group "08" for the course "Algorithms and Data Structures (ADS) - COMP1819" under the supervision of Dr. Punitha Puttuswamy.
